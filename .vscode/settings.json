@@ -19,7 +19,7 @@
   ],
   "C_Cpp_Runner.msvcWarnings": [ 
     "/W4",
-    "/permissive-",
+    "/permissive-", 
     "/w14242",
     "/w14287",
     "/w14296",
