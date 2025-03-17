@@ -1,1 +1,1 @@
-This repository contains all the leetcode questions that I've solved mostly I have tried focusing on the blind75 series which covers all the algorithms other than the blind75 series I have solved questions which covers some more patterns and algorithms
+This repository contains all the leetcode questions that I've solved mostly I have tried focusing on the blind75 series which covers all the algorithms other than the blind75 series I have solved questions which covers some more patterns and algorithms 
