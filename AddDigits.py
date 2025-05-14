@@ -6,4 +6,4 @@ class Solution:
                 val += num % 10
                 num = num // 10
             num = val
-        return num
+        return num 
