@@ -1,7 +1,7 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
         seen = set()
-
+ 
         while n != 1 and n not in seen:
             seen.add(n)
             n = self.sum_of_squares(n)
