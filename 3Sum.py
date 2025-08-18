@@ -4,7 +4,7 @@ class Solution:
         nums.sort()  #Step 1: Sorting
 
         for i, a in enumerate(nums):
-            if i > 0 and a == nums[i - 1]:
+            if i > 0 and a == nums[i - 1]: 
                 continue  #Step 2: Skip duplicates
 
             l, r = i + 1, len(nums) - 1  #Step 3: Two-pointer approach
